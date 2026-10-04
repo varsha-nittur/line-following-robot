@@ -75,7 +75,8 @@ To run it:
 
 ## Challenges and what I learned
 
-calibrating the IR sensor potentiometer for the surface, motors not turning at low PWM, one motor running faster than the other
+- Calibrated the IR sensor potentiometer so the robot detected the line on my surface
+- Motors would not turn at low PWM values, so I raised the PWM frequency
 
 ## Possible improvements
 
