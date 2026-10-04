@@ -17,7 +17,7 @@ A two-wheel line following robot built with an Arduino Uno, two IR sensors and a
 | Chassis, wheels, caster, wires | - | Body of the robot |
 
 ## Circuit
-![alt text](LineFollwerRobotCricuit.png)
+![Wiring diagram](Images/wiring-diagram.png)
 
 
 ### Pin connections
