@@ -75,14 +75,10 @@ To run it:
 
 ## Challenges and what I learned
 
-- [Write 2 or 3 real points here. Examples: calibrating the IR sensor potentiometer for the surface, motors not turning at low PWM, one motor running faster than the other.]
+calibrating the IR sensor potentiometer for the surface, motors not turning at low PWM, one motor running faster than the other
 
 ## Possible improvements
 
 - Replace the on/off turning with PID control for smoother, faster line following
 - Add more sensors (a 5-sensor array) to handle sharp turns and intersections
 - Add a speed-based turn instead of spinning on the spot
-
-## Credits
-
-[If you based the logic on a tutorial or open-source example, credit it here with a link. For example: "Based on a public tutorial (link here), modified for my chassis and pin setup."]
