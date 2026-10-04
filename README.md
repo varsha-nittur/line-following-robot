@@ -64,7 +64,7 @@ This makes the motors run smoothly at controlled speed. Because this changes Tim
 
 ## Code
 
-The full sketch is in [`code/LineFollowerRobot.ino`](code/LineFollowerRobot.ino).
+The full sketch is in [`Code/LineFollowerRobot.ino`](Code/LineFollowerRobot.ino).
 
 To run it:
 
